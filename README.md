@@ -28,21 +28,32 @@ Configuration	Next Config, App Hosting YAML
 Build Tools	Node.js, NPM
 ⚙️ Installation & Setup
 # 1️⃣ Clone the repository
+```bash
 git clone https://github.com/yourusername/CertiGuard.git
+```
 
 # 2️⃣ Navigate to project directory
+```bash 
 cd CertiGuard
+```
 
 # 3️⃣ Install dependencies
+```bash
 npm install
+```
 
 # 4️⃣ Run the development server
+```bash
 npm run dev
+```
 
 # 5️⃣ Open your browser
+```bash
 # Visit http://localhost:3000
+```
 
 🧭 Project Structure
+```bash
 CertiGuard/
 │
 ├── src/
@@ -59,7 +70,7 @@ CertiGuard/
 ├── tsconfig.json        # TypeScript configuration
 ├── next.config.js       # Next.js setup
 └── apphosting.yaml      # Deployment configuration
-
+```
 🧠 How It Works
 
 Upload / Generate Certificates – Admins or authorized users can issue certificates digitally.
@@ -97,8 +108,9 @@ Open a Pull Request
 
 🧾 License
 
-This project is licensed under the MIT License — feel free to use, modify, and distribute it.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License — feel free to use, modify, and distribute it.
 
 💡 Inspiration
+
 
 CertiGuard was built to make certificate verification trustworthy, efficient, and future-ready — blending cutting-edge AI with the simplicity of modern web design.
