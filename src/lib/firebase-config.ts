@@ -3,12 +3,12 @@ import { initializeApp, getApps, getApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDqAl3FbS9kl50JWwHBmlcci9-wq-kEG90",
+  apiKey: " ",
   authDomain: "certguard-lite.firebaseapp.com",
   projectId: "certguard-lite",
   storageBucket: "certguard-lite.firebasestorage.app",
-  messagingSenderId: "742712155958",
-  appId: "1:742712155958:web:d8aafeabafdb9c1cf2dd97",
+  messagingSenderId: " ",
+  appId: " ",
 };
 
 // Initialize Firebase
